@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f3f6fb; color: #111; }
+header { background: linear-gradient(90deg,#6a8cff,#9be7ff); color: white; padding: 16px; text-align: center; }
+.container { max-width: 900px; margin: 20px auto; padding: 0 12px; }
+.card { background: white; padding: 12px; border-radius: 8px; box-shadow: 0 6px 18px rgba(16,24,40,0.06); margin-bottom: 14px; }
+input, textarea { width: 100%; padding: 8px; margin: 6px 0; box-sizing: border-box; border-radius: 6px; border: 1px solid #ddd; }
+button { padding: 8px 12px; border: none; border-radius: 6px; cursor: pointer; background: #4ecdc4; color: #fff; }
+.msg { color: #e74c3c; margin-top: 8px; }
+.post { border-bottom: 1px solid #eee; padding: 8px 0; }
+.post small { color: #666; }
